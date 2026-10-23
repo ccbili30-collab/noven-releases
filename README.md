@@ -10,7 +10,7 @@
 
 ## 安装
 
-1. 下载 `Noven-20261023-df5f2042cc-arm64.dmg`。
+1. 下载 `Noven-20261023-4df2b28124-arm64.dmg`。
 2. 打开 DMG，把 **Noven.app** 拖到「应用程序」。
 3. 第一次打开会被 macOS 拦截，因为当前构建没有 Apple 开发者签名：
    - 右键点击 Noven.app → **打开** → 再点 **打开**；或
@@ -30,11 +30,11 @@
 ## 当前构建
 
 - 产品：Noven 0.1.0
-- 构建：20261023-df5f2042cc
+- 构建：20261023-4df2b28124
 - 内核：DSH 0.1.7-rc.2
 - 签名：unsigned / 未公证
 - 架构：Apple Silicon
-- SHA256：`310590780de81287e7878251dc1a9e6a7c7661aa87423eec73e03bf3a9448027`
+- SHA256：`5179e84d0a4fdb53fd017ab9bfab6f4c007fca3e32ceecde63e4f175cd79217a`
 
 ## 已知限制
 
